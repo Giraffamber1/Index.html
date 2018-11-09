@@ -1,10 +1,10 @@
 
-{body 
-    background-color: lightblue;
+body 
+    { background-color: orange;
   font-size: 12%;
-  color: yellow;
+  color: black;
 }
 
 h1 {
-  color: yellow;
+  color: black;
 }
