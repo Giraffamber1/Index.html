@@ -2,12 +2,12 @@
 body {
     background-color: white;
   font-size: 20%;
-  color: #ff9c33;
+ font-color: black;
         font-style: bookman old style; 
 }
 
 h1 { background-color: white;
-  color: #ff9c33;
+  font-color: black;
     font-style: broadway;
     font-size: 20%; 
 }
